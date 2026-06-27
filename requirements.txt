@@ -1,0 +1,13 @@
+# model LLM libraries
+anthropic
+
+# Strumenti locali librerie API (Hugging Face)
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+
+# Gestione Dati / Utility
+pandas
+scikit-learn
+
+# Utility di sistema
+python-dotenv
