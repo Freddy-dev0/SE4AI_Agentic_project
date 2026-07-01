@@ -1,1 +1,3 @@
-data/
+# Ignora i dataset ma mantieni la cartella
+data/*
+!data/.gitkeep
